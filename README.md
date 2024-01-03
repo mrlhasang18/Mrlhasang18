@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lhasang Tulku Lama
 ==========================================================================================================================================
 
-AI & ML Enthusiast
+| Exploring Gen-AI & ML | AWS Certified | 
 ------------------
 
-I love coding and developing !!
+I love challenging myself to learn new things and apply them so that I can make an impact in our society,nation and also in the world.
 
 * 🌍  I'm based in Nepal
 * ✉️  You can contact me at [lamalhasang256@gmail.com](mailto:lamalhasang256@gmail.com)
-* 🧠  I'm learning Generative AI ,Cloud Computing , OOP, DSA with C++,etc
+* 🧠  I'm learning Generative AI ,Cloud Computing , OOP & DSA with C++,etc
 * 🤝  I'm open to collaborating on AI project ideas and also Front-end web development projects!!
 
 <a href="https://www.github.com/Mrlhasang18" target="_blank" rel="noreferrer"><img
