@@ -1,15 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lhasang Tulku Lama
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hello there!
+It's me Lhasang Lama.
 ==========================================================================================================================================
 
-| Exploring Gen-AI & ML | AWS Certified | 
+| Exploring ML/AI | 
 ------------------
 
-I love challenging myself to learn new things and apply them so that I can make an impact in our society,nation and also in the world.
+I love challenging myself to learn new things and apply them to make an impact in our society, nation, and the world.
 
 * 🌍  I'm based in Nepal
 * ✉️  You can contact me at [lamalhasang256@gmail.com](mailto:lamalhasang256@gmail.com)
-* 🧠  I'm learning Generative AI ,Cloud Computing , OOP & DSA with C++,etc
-* 🤝  I'm open to collaborating on AI project ideas and also Front-end web development projects!!
+* 🧠  I'm learning  ML/AI and DSA with C++.
+* 🤝  I'm open to collaborating on AI project ideas and Front-end web development projects!!
 
 <a href="https://www.github.com/Mrlhasang18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mrlhasang18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
