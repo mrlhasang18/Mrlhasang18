@@ -1,16 +1,17 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hello there!
-It's me Lhasang Lama.
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hello and Namaste !
 ==========================================================================================================================================
 
-| Exploring ML/AI | 
+It's me Lhasang Lama.
 ------------------
 
-I love challenging myself to learn new things and apply them to make an impact in our society, nation, and the world.
+Computer Engineering Student | Machine Learning Enthusiast (🇳🇵 Nepal)
 
-* 🌍  I'm based in Nepal
+* 🌍  I'm a student developer based in Makwanpur, Nepal.
 * ✉️  You can contact me at [lamalhasang256@gmail.com](mailto:lamalhasang256@gmail.com)
-* 🧠  I'm learning  ML/AI and DSA with C++.
-* 🤝  I'm open to collaborating on AI project ideas and Front-end web development projects!!
+* 🧠  Currently I'm learning Machine Learning using Python.
+* 🤝  I'm open to collaborating on Python and Machine Learning project ideas and Front-end web development projects!!
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=190CF7&random=false&width=435&lines=Learning+Machine+learning...;want+to+connect+%3F;socials+in+bio.)](https://git.io/typing-svg)
 
 <a href="https://www.github.com/Mrlhasang18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mrlhasang18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
