@@ -12,7 +12,10 @@ Computer Engineering Student | Machine Learning Enthusiast (🇳🇵 Nepal)
 * 🤝  I'm open to collaborating on Python and Machine Learning project ideas and Front-end web development projects!!
 
 ------------------
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=190CF7&random=false&width=435&lines=Learning+Machine+learning...;want+to+connect+%3F;socials+in+bio.)](https://git.io/typing-svg)
+
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=190CF7&random=false&width=435&lines=Learning+Machine+learning...;want+to+connect+%3F;socials+in+bio.)](https://git.io/typing-svg)
+</div>
 
 ------------------
 
