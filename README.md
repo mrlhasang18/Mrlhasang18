@@ -11,6 +11,15 @@ Computer Engineering Student | Machine Learning Enthusiast (🇳🇵 Nepal)
 * 🧠  Currently I'm learning Machine Learning using Python.
 * 🤝  I'm open to collaborating on Python and Machine Learning project ideas and Front-end web development projects!!
 
+==========================================================================================================================================
+
+
+<div align=center>
+  <img src=" [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=190CF7&random=false&width=435&lines=Learning+Machine+learning...;want+to+connect+%3F;socials+in+bio.)](https://git.io/typing-svg)" alt="CSV File" width="50%" height="50%">
+</div>
+
+
+==========================================================================================================================================
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=190CF7&random=false&width=435&lines=Learning+Machine+learning...;want+to+connect+%3F;socials+in+bio.)](https://git.io/typing-svg)
 
 <a href="https://www.github.com/Mrlhasang18" target="_blank" rel="noreferrer"><img
