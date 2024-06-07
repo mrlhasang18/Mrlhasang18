@@ -3,7 +3,7 @@
 </h1>
 <h3 align="left">A passionate ML/AI Enthusiast from Nepal.</h3>
 
-<img align="right" height="100" src="https://i.gifer.com/VR7G.gif"  />
+<img align="right" height="80" src="https://i.gifer.com/VR7G.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlhasang18&label=Profile%20views&color=0e75b6&style=flat" alt="mrlhasang18" /> </p>
 
