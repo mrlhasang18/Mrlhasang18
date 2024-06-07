@@ -16,6 +16,15 @@
 - 💬 Ask me about **Frontend, Machine Learning**
 
 - 📫 How to reach me **lamalhasang256@gmail.com**
+------------------
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=190CF7&random=false&width=435&lines=Learning+Machine+learning...;want+to+connect+%3F;socials+in+bio.)](https://git.io/typing-svg)
+  
+</div>
+
+------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
