@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Frontend Projects**
 
-- 💬 Ask me about **Frontend, Machine Learning**
+- 💬 Ask me about **Frontend and Machine Learning.**
 
 - 📫 How to reach me **lamalhasang256@gmail.com**
 
