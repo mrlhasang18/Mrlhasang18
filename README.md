@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlhasang18&label=Profile%20views&color=0e75b6&style=flat" alt="mrlhasang18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrlhasang18" alt="mrlhasang18" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning with Pyhthon**
+- 🌱 I’m currently learning **Machine Learning with Python**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Frontend Projects**
 
@@ -38,7 +36,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrlhasang18" alt="mrlhasang18" /></a> </p>
 </div>
 
 <br/><br/>
