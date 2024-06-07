@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Lhasang Lama</h1>
+<h1>Hi 👋, I'm Lhasang Lama</h1>
 <h3 align="center">A passionate Machine Learning and Artificial Intelligence Enthusiast from Nepal.</h3>
 </div>
 
@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mrlhasang18/mrlhasang18/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mrlhasang18/mrlhasang18/outputsnake.svg" alt="Snake animation" />
 
 ###
 
