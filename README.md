@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lhasang+Lama!;" />
 </h1>
 
-<h3 align="center">A passionate ML/AI Enthusiast from Nepal.</h3>
+<h3 align="center">Machine Learning and Artificial Intelligence Enthusiast.</h3>
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
