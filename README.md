@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **lamalhasang256@gmail.com**
 
+<img src="https://raw.githubusercontent.com/mrlhasang18/mrlhasang18/output/snake.svg" alt="Snake animation" />
+
+###
+
   
 ------------------
 
