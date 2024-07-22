@@ -6,7 +6,7 @@
 
 <h3 align="center">Machine Learning and Artificial Intelligence Enthusiast.</h3>
 
-- 🌱 I’m currently learning **Machine Learning with Python**
+- 🌱 I’m currently learning **Machine Learning with Python and Sickit-Learn**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Frontend Projects**
 
